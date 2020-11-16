@@ -1,0 +1,6 @@
+file:
+  upload:
+    directory: C:/User/user/Desktop
+    ban-list:
+      - sh
+      - exe
